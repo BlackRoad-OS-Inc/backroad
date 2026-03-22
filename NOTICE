@@ -1,0 +1,17 @@
+NOTICE — Third-Party Software Attribution
+==========================================
+
+This repository (backroad) is based on Portainer.
+
+Original Project: Portainer
+Original Repository: https://github.com/portainer/portainer
+Original License: Zlib
+
+The original code is copyright its respective authors and is used in
+compliance with the Zlib license. BlackRoad OS, Inc.
+modifications and additions are proprietary.
+
+A copy of the original Zlib license can be found at:
+https://github.com/portainer/portainer/blob/main/LICENSE
+
+© 2024-2026 BlackRoad OS, Inc. All rights reserved for modifications.
